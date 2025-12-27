@@ -12,6 +12,3 @@ Projeto construído no evento Next Level Week sa Rocketseat.
 - HTML
 - CSS
 - Git e Github
-
-## 💌 contato
-herreravcky@gmail.com
